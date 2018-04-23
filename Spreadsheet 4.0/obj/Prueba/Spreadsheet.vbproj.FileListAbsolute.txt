@@ -1,0 +1,11 @@
+C:\Users\Lucas\Desktop\Pruebas .Net\Spreadsheet 2.0\bin\Prueba\Spreadsheet.exe
+C:\Users\Lucas\Desktop\Pruebas .Net\Spreadsheet 2.0\obj\Prueba\ResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Pruebas .Net\Spreadsheet 2.0\obj\Prueba\Payroll.BAM.resources
+C:\Users\Lucas\Desktop\Pruebas .Net\Spreadsheet 2.0\obj\Prueba\Payroll.Planillador.resources
+C:\Users\Lucas\Desktop\Pruebas .Net\Spreadsheet 2.0\obj\Prueba\Payroll.Login.resources
+C:\Users\Lucas\Desktop\Pruebas .Net\Spreadsheet 2.0\obj\Prueba\Payroll.Principal.resources
+C:\Users\Lucas\Desktop\Pruebas .Net\Spreadsheet 2.0\obj\Prueba\Payroll.Resources.resources
+C:\Users\Lucas\Desktop\Pruebas .Net\Spreadsheet 2.0\obj\Prueba\Payroll.Consultor.resources
+C:\Users\Lucas\Desktop\Pruebas .Net\Spreadsheet 2.0\obj\Prueba\Payroll.Prueba.resources
+C:\Users\Lucas\Desktop\Pruebas .Net\Spreadsheet 2.0\obj\Prueba\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\Pruebas .Net\Spreadsheet 2.0\obj\Prueba\Spreadsheet.exe

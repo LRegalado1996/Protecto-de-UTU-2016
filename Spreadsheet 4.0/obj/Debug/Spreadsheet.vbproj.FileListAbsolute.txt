@@ -1,0 +1,891 @@
+C:\Users\lucas\Desktop\Spreadsheet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\Spreadsheet\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\lucas\Desktop\Spreadsheet\bin\Debug\Spreadsheet.exe
+C:\Users\lucas\Desktop\Spreadsheet\bin\Debug\Spreadsheet.pdb
+C:\Users\lucas\Desktop\Spreadsheet\bin\Debug\Spreadsheet.xml
+C:\Users\lucas\Desktop\Spreadsheet\obj\Debug\Payroll.BAM.resources
+C:\Users\lucas\Desktop\Spreadsheet\obj\Debug\Payroll.Planillador.resources
+C:\Users\lucas\Desktop\Spreadsheet\obj\Debug\Payroll.Login.resources
+C:\Users\lucas\Desktop\Spreadsheet\obj\Debug\Payroll.Resources.resources
+C:\Users\lucas\Desktop\Spreadsheet\obj\Debug\Spreadsheet.exe
+C:\Users\lucas\Desktop\Spreadsheet\obj\Debug\Spreadsheet.xml
+C:\Users\lucas\Desktop\Spreadsheet\obj\Debug\Spreadsheet.pdb
+C:\Users\lucas\Desktop\Spreadsheet\obj\Debug\Payroll.Principal.resources
+C:\Users\lucas\Desktop\Spreadsheet\obj\Debug\Payroll.Consultor.resources
+C:\Users\lucas\Desktop\Pruebas .Net\Spreadsheet\obj\Debug\Spreadsheet.exe
+C:\Users\lucas\Desktop\Pruebas .Net\Spreadsheet\obj\Debug\Spreadsheet.xml
+C:\Users\lucas\Desktop\Pruebas .Net\Spreadsheet\obj\Debug\Spreadsheet.pdb
+C:\Users\lucas\Desktop\Pruebas .Net\Spreadsheet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\Pruebas .Net\Spreadsheet\obj\Debug\Payroll.BAM.resources
+C:\Users\lucas\Desktop\Pruebas .Net\Spreadsheet\obj\Debug\Payroll.Planillador.resources
+C:\Users\lucas\Desktop\Pruebas .Net\Spreadsheet\obj\Debug\Payroll.Login.resources
+C:\Users\lucas\Desktop\Pruebas .Net\Spreadsheet\obj\Debug\Payroll.Principal.resources
+C:\Users\lucas\Desktop\Pruebas .Net\Spreadsheet\obj\Debug\Payroll.Resources.resources
+C:\Users\lucas\Desktop\Pruebas .Net\Spreadsheet\obj\Debug\Payroll.Consultor.resources
+C:\Users\lucas\Desktop\Pruebas .Net\Spreadsheet\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\lucas\Desktop\Pruebas .Net\Spreadsheet\bin\Debug\Spreadsheet.exe
+C:\Users\lucas\Desktop\Pruebas .Net\Spreadsheet\bin\Debug\Spreadsheet.pdb
+C:\Users\lucas\Desktop\Pruebas .Net\Spreadsheet\bin\Debug\Spreadsheet.xml
+C:\Users\Lucas\Desktop\Pruebas .Net\Spreadsheet 2.0\obj\Debug\Spreadsheet.exe
+C:\Users\Lucas\Desktop\Pruebas .Net\Spreadsheet 2.0\obj\Debug\Spreadsheet.xml
+C:\Users\Lucas\Desktop\Pruebas .Net\Spreadsheet 2.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Lucas\Desktop\Pruebas .Net\Spreadsheet 2.0\bin\Debug\Spreadsheet.exe
+C:\Users\Lucas\Desktop\Pruebas .Net\Spreadsheet 2.0\bin\Debug\Spreadsheet.pdb
+C:\Users\Lucas\Desktop\Pruebas .Net\Spreadsheet 2.0\bin\Debug\Spreadsheet.xml
+C:\Users\Lucas\Desktop\Pruebas .Net\Spreadsheet 2.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Pruebas .Net\Spreadsheet 2.0\obj\Debug\Payroll.BAM.resources
+C:\Users\Lucas\Desktop\Pruebas .Net\Spreadsheet 2.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\Lucas\Desktop\Pruebas .Net\Spreadsheet 2.0\obj\Debug\Payroll.Login.resources
+C:\Users\Lucas\Desktop\Pruebas .Net\Spreadsheet 2.0\obj\Debug\Payroll.Principal.resources
+C:\Users\Lucas\Desktop\Pruebas .Net\Spreadsheet 2.0\obj\Debug\Payroll.Resources.resources
+C:\Users\Lucas\Desktop\Pruebas .Net\Spreadsheet 2.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\Lucas\Desktop\Pruebas .Net\Spreadsheet 2.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\Pruebas .Net\Spreadsheet 2.0\obj\Debug\Payroll.Prueba.resources
+C:\Users\Programacion\Desktop\Spreadsheet 2.1\Spreadsheet 2.1\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 2.1\Spreadsheet 2.1\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 2.1\Spreadsheet 2.1\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 2.1\Spreadsheet 2.1\bin\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 2.1\Spreadsheet 2.1\bin\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 2.1\Spreadsheet 2.1\bin\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 2.1\Spreadsheet 2.1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Spreadsheet 2.1\Spreadsheet 2.1\obj\Debug\Payroll.BAM.resources
+C:\Users\Programacion\Desktop\Spreadsheet 2.1\Spreadsheet 2.1\obj\Debug\Payroll.Planillador.resources
+C:\Users\Programacion\Desktop\Spreadsheet 2.1\Spreadsheet 2.1\obj\Debug\Payroll.Login.resources
+C:\Users\Programacion\Desktop\Spreadsheet 2.1\Spreadsheet 2.1\obj\Debug\Payroll.Principal.resources
+C:\Users\Programacion\Desktop\Spreadsheet 2.1\Spreadsheet 2.1\obj\Debug\Payroll.Resources.resources
+C:\Users\Programacion\Desktop\Spreadsheet 2.1\Spreadsheet 2.1\obj\Debug\Payroll.Consultor.resources
+C:\Users\Programacion\Desktop\Spreadsheet 2.1\Spreadsheet 2.1\obj\Debug\Payroll.Prueba.resources
+C:\Users\Programacion\Desktop\Spreadsheet 2.1\Spreadsheet 2.1\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\Spreadsheet 2.1\Spreadsheet 2.1\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 2.1\Spreadsheet 2.1\obj\Debug\Payroll.BAM.de.resources
+C:\Users\Programacion\Desktop\Spreadsheet 2.1\Spreadsheet 2.1\obj\Debug\de\Spreadsheet.resources.dll
+D:\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+D:\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+D:\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+D:\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+D:\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+D:\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+D:\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+D:\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+D:\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+D:\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+D:\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+D:\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+D:\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+D:\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\obj\Debug\Payroll.Prueba.resources
+D:\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+D:\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+D:\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\obj\Debug\Payroll.Prueba.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 04-10-16\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+D:\Spreadsheet 4.0 05-10-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+D:\Spreadsheet 4.0 05-10-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+D:\Spreadsheet 4.0 05-10-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+D:\Spreadsheet 4.0 05-10-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+D:\Spreadsheet 4.0 05-10-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+D:\Spreadsheet 4.0 05-10-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+D:\Spreadsheet 4.0 05-10-16\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+D:\Spreadsheet 4.0 05-10-16\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Spreadsheet 4.0 05-10-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+D:\Spreadsheet 4.0 05-10-16\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+D:\Spreadsheet 4.0 05-10-16\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+D:\Spreadsheet 4.0 05-10-16\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+D:\Spreadsheet 4.0 05-10-16\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+D:\Spreadsheet 4.0 05-10-16\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+D:\Spreadsheet 4.0 05-10-16\Spreadsheet 4.0\obj\Debug\Payroll.Prueba.resources
+D:\Spreadsheet 4.0 05-10-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+D:\Spreadsheet 4.0 05-10-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+D:\Spreadsheet 4.0 05-10-16\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 V2\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 V2\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 V2\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 V2\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 V2\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 V2\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 V2\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 V2\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 V2\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 V2\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 V2\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 V2\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 V2\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 V2\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 V2\Spreadsheet 4.0\obj\Debug\Payroll.Prueba.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 V2\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 V2\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 V2\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 pruebaaa\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 pruebaaa\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 pruebaaa\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 pruebaaa\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 pruebaaa\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 pruebaaa\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 pruebaaa\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 pruebaaa\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 pruebaaa\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 pruebaaa\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 pruebaaa\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 pruebaaa\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 pruebaaa\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 pruebaaa\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 pruebaaa\Spreadsheet 4.0\obj\Debug\Payroll.Prueba.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 pruebaaa\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 pruebaaa\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 05-10-16 pruebaaa\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 06-10-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 06-10-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 06-10-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 06-10-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 06-10-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 06-10-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 06-10-16\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 06-10-16\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 06-10-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 06-10-16\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 06-10-16\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 06-10-16\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 06-10-16\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 06-10-16\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 06-10-16\Spreadsheet 4.0\obj\Debug\Payroll.Prueba.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 06-10-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 06-10-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 06-10-16\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+D:\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+D:\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+D:\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+D:\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+D:\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+D:\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+D:\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+D:\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+D:\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+D:\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+D:\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+D:\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+D:\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+D:\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Prueba.resources
+D:\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+D:\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+D:\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Prueba.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 08-10-16 v1\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 10-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 10-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 10-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 10-10-16 v1\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 10-10-16 v1\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 10-10-16 v1\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 10-10-16 v1\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 10-10-16 v1\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 10-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 10-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 10-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 10-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 10-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 10-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 10-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Prueba.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 10-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 10-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 10-10-16 v1\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\Lucas\Desktop\Programa\Spreadsheet 4.0 11-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Lucas\Desktop\Programa\Spreadsheet 4.0 11-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Lucas\Desktop\Programa\Spreadsheet 4.0 11-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Lucas\Desktop\Programa\Spreadsheet 4.0 11-10-16 v1\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\Lucas\Desktop\Programa\Spreadsheet 4.0 11-10-16 v1\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\Lucas\Desktop\Programa\Spreadsheet 4.0 11-10-16 v1\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\Lucas\Desktop\Programa\Spreadsheet 4.0 11-10-16 v1\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\Lucas\Desktop\Programa\Spreadsheet 4.0 11-10-16 v1\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Programa\Spreadsheet 4.0 11-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\Lucas\Desktop\Programa\Spreadsheet 4.0 11-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\Lucas\Desktop\Programa\Spreadsheet 4.0 11-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\Lucas\Desktop\Programa\Spreadsheet 4.0 11-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\Lucas\Desktop\Programa\Spreadsheet 4.0 11-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\Lucas\Desktop\Programa\Spreadsheet 4.0 11-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\Lucas\Desktop\Programa\Spreadsheet 4.0 11-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Prueba.resources
+C:\Users\Lucas\Desktop\Programa\Spreadsheet 4.0 11-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\Lucas\Desktop\Programa\Spreadsheet 4.0 11-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\Programa\Spreadsheet 4.0 11-10-16 v1\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 12-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 12-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 12-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 12-10-16 v1\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 12-10-16 v1\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 12-10-16 v1\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 12-10-16 v1\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 12-10-16 v1\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 12-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 12-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 12-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 12-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 12-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 12-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 12-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Prueba.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 12-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 12-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 12-10-16 v1\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\bin\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.TrustInfo.xml
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.application
+C:\Users\admin\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\admin\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\admin\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\admin\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\admin\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\admin\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\admin\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\admin\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\admin\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\admin\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\admin\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe.manifest
+C:\Users\admin\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\bin\Debug\Spreadsheet.application
+C:\Users\admin\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\admin\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\admin\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\admin\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\admin\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\admin\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.TrustInfo.xml
+C:\Users\admin\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe.manifest
+C:\Users\admin\Desktop\Spreadsheet 4.0 14-10-16 v1\Spreadsheet 4.0\obj\Debug\Spreadsheet.application
+C:\Users\admin\Desktop\Prueba\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\admin\Desktop\Prueba\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\admin\Desktop\Prueba\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\admin\Desktop\Prueba\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Prueba\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\admin\Desktop\Prueba\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\admin\Desktop\Prueba\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\admin\Desktop\Prueba\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\admin\Desktop\Prueba\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\admin\Desktop\Prueba\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\admin\Desktop\Prueba\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\admin\Desktop\Prueba\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Prueba\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe.manifest
+C:\Users\admin\Desktop\Prueba\Spreadsheet 4.0\bin\Debug\Spreadsheet.application
+C:\Users\admin\Desktop\Prueba\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\admin\Desktop\Prueba\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\admin\Desktop\Prueba\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\admin\Desktop\Prueba\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\admin\Desktop\Prueba\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\admin\Desktop\Prueba\Spreadsheet 4.0\obj\Debug\Spreadsheet.TrustInfo.xml
+C:\Users\admin\Desktop\Prueba\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe.manifest
+C:\Users\admin\Desktop\Prueba\Spreadsheet 4.0\obj\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\5.0 07-11-2016\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\5.0 07-11-2016\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\5.0 07-11-2016\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\5.0 07-11-2016\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\5.0 07-11-2016\Spreadsheet 4.0\bin\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\5.0 07-11-2016\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\5.0 07-11-2016\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\5.0 07-11-2016\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\5.0 07-11-2016\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\5.0 07-11-2016\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\5.0 07-11-2016\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\Programacion\Desktop\5.0 07-11-2016\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\Programacion\Desktop\5.0 07-11-2016\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\Programacion\Desktop\5.0 07-11-2016\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\Programacion\Desktop\5.0 07-11-2016\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\Programacion\Desktop\5.0 07-11-2016\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\Programacion\Desktop\5.0 07-11-2016\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\Programacion\Desktop\5.0 07-11-2016\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\5.0 07-11-2016\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\5.0 07-11-2016\Spreadsheet 4.0\obj\Debug\Spreadsheet.TrustInfo.xml
+C:\Users\Programacion\Desktop\5.0 07-11-2016\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\5.0 07-11-2016\Spreadsheet 4.0\obj\Debug\Spreadsheet.application
+C:\Users\admin\Desktop\5.0 07-11-2016 v2\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\admin\Desktop\5.0 07-11-2016 v2\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\admin\Desktop\5.0 07-11-2016 v2\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\admin\Desktop\5.0 07-11-2016 v2\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\5.0 07-11-2016 v2\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\admin\Desktop\5.0 07-11-2016 v2\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\admin\Desktop\5.0 07-11-2016 v2\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\admin\Desktop\5.0 07-11-2016 v2\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\admin\Desktop\5.0 07-11-2016 v2\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\admin\Desktop\5.0 07-11-2016 v2\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\admin\Desktop\5.0 07-11-2016 v2\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\admin\Desktop\5.0 07-11-2016 v2\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\5.0 07-11-2016 v2\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe.manifest
+C:\Users\admin\Desktop\5.0 07-11-2016 v2\Spreadsheet 4.0\bin\Debug\Spreadsheet.application
+C:\Users\admin\Desktop\5.0 07-11-2016 v2\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\admin\Desktop\5.0 07-11-2016 v2\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\admin\Desktop\5.0 07-11-2016 v2\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\admin\Desktop\5.0 07-11-2016 v2\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\admin\Desktop\5.0 07-11-2016 v2\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\admin\Desktop\5.0 07-11-2016 v2\Spreadsheet 4.0\obj\Debug\Spreadsheet.TrustInfo.xml
+C:\Users\admin\Desktop\5.0 07-11-2016 v2\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe.manifest
+C:\Users\admin\Desktop\5.0 07-11-2016 v2\Spreadsheet 4.0\obj\Debug\Spreadsheet.application
+C:\Users\admin\Desktop\5.0 07-11-2016 v2 - copia\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\admin\Desktop\5.0 07-11-2016 v2 - copia\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\admin\Desktop\5.0 07-11-2016 v2 - copia\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\admin\Desktop\5.1  07-11-2016 v2 -\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\admin\Desktop\5.1  07-11-2016 v2 -\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\admin\Desktop\5.1  07-11-2016 v2 -\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\admin\Desktop\5.1  07-11-2016 v2 -\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\5.1  07-11-2016 v2 -\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\admin\Desktop\5.1  07-11-2016 v2 -\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\admin\Desktop\5.1  07-11-2016 v2 -\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\admin\Desktop\5.1  07-11-2016 v2 -\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\admin\Desktop\5.1  07-11-2016 v2 -\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\admin\Desktop\5.1  07-11-2016 v2 -\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\admin\Desktop\5.1  07-11-2016 v2 -\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\admin\Desktop\5.1  07-11-2016 v2 -\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\5.1  07-11-2016 v2 -\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe.manifest
+C:\Users\admin\Desktop\5.1  07-11-2016 v2 -\Spreadsheet 4.0\bin\Debug\Spreadsheet.application
+C:\Users\admin\Desktop\5.1  07-11-2016 v2 -\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\admin\Desktop\5.1  07-11-2016 v2 -\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\admin\Desktop\5.1  07-11-2016 v2 -\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\admin\Desktop\5.1  07-11-2016 v2 -\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\admin\Desktop\5.1  07-11-2016 v2 -\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\admin\Desktop\5.1  07-11-2016 v2 -\Spreadsheet 4.0\obj\Debug\Spreadsheet.TrustInfo.xml
+C:\Users\admin\Desktop\5.1  07-11-2016 v2 -\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe.manifest
+C:\Users\admin\Desktop\5.1  07-11-2016 v2 -\Spreadsheet 4.0\obj\Debug\Spreadsheet.application
+C:\Users\admin\Desktop\5.1  07-11-2016 v2 - - copia\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\admin\Desktop\5.1  07-11-2016 v2 - - copia\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\admin\Desktop\5.1  07-11-2016 v2 - - copia\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 5.2\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 5.2\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.2\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 5.2\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 5.2\Spreadsheet 4.0\bin\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 5.2\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 5.2\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 5.2\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.2\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 5.2\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Spreadsheet 5.2\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.2\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.2\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.2\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.2\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.2\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.2\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.2\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\Spreadsheet 5.2\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 5.2\Spreadsheet 4.0\obj\Debug\Spreadsheet.TrustInfo.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.2\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 5.2\Spreadsheet 4.0\obj\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 5.3 14-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 5.3 14-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.3 14-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 5.3 14-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 5.3 14-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 5.3 14-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 5.3 14-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 5.3 14-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.3 14-11-16\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 5.3 14-11-16\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Spreadsheet 5.3 14-11-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.3 14-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.3 14-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.3 14-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.3 14-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.3 14-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.3 14-11-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.3 14-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\Spreadsheet 5.3 14-11-16\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 5.3 14-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.TrustInfo.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.3 14-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 5.3 14-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 5.3 14-11-16 - copia\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 5.3 14-11-16 - copia\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.3 14-11-16 - copia\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 5.4\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 5.4\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.4\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 5.4\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 5.4\Spreadsheet 4.0\bin\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 5.4\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 5.4\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 5.4\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.4\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 5.4\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Spreadsheet 5.4\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.4\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.4\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.4\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.4\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.4\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.4\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.4\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\Spreadsheet 5.4\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 5.4\Spreadsheet 4.0\obj\Debug\Spreadsheet.TrustInfo.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.4\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 5.4\Spreadsheet 4.0\obj\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.TrustInfo.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16 - copia\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16 - copia\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16 - copia\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16 - copia\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16 - copia\Spreadsheet 4.0\bin\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16 - copia\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16 - copia\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16 - copia\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16 - copia\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16 - copia\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16 - copia\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16 - copia\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16 - copia\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16 - copia\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16 - copia\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16 - copia\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16 - copia\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16 - copia\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16 - copia\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16 - copia\Spreadsheet 4.0\obj\Debug\Spreadsheet.TrustInfo.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16 - copia\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 5.5 16-11-16 - copia\Spreadsheet 4.0\obj\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 5.6 18-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 5.6 18-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.6 18-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 5.6 18-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 5.6 18-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 5.6 18-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 5.6 18-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 5.6 18-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.6 18-11-16\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 5.6 18-11-16\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Spreadsheet 5.6 18-11-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.6 18-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.6 18-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.6 18-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.6 18-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.6 18-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.6 18-11-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.6 18-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\Spreadsheet 5.6 18-11-16\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 5.6 18-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.TrustInfo.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.6 18-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 5.6 18-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 5.7\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 5.7\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.7\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 5.7\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 5.7\Spreadsheet 4.0\bin\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 5.7\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 5.7\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 5.7\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.7\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 5.7\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Spreadsheet 5.7\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.7\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.7\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.7\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.7\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.7\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.7\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.7\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\Spreadsheet 5.7\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 5.7\Spreadsheet 4.0\obj\Debug\Spreadsheet.TrustInfo.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.7\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 5.7\Spreadsheet 4.0\obj\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 5.7 19-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 5.7 19-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.7 19-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 5.7 19-11-16\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Spreadsheet 5.7 19-11-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.7 19-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.7 19-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.7 19-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.7 19-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.7 19-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.7 19-11-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.7 19-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\Spreadsheet 5.7 19-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 5.7 19-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 5.7 19-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 5.7 19-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 5.7 19-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.7 19-11-16\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 5.7 19-11-16\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 5.7 19-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.TrustInfo.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.7 19-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 5.7 19-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 5.8 20-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 5.8 20-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.8 20-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 5.8 20-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 5.8 20-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 5.8 20-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 5.8 20-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 5.8 20-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.8 20-11-16\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 5.8 20-11-16\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Spreadsheet 5.8 20-11-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.8 20-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.8 20-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.8 20-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.8 20-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.8 20-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.8 20-11-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.8 20-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\Spreadsheet 5.8 20-11-16\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 5.8 20-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.TrustInfo.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.8 20-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 5.8 20-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 5.8 20-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Registro.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.9 21-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 5.9 21-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.9 21-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 5.9 21-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 5.9 21-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 5.9 21-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 5.9 21-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 5.9 21-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.9 21-11-16\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 5.9 21-11-16\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Spreadsheet 5.9 21-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Registro.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.9 21-11-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.9 21-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.9 21-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.9 21-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.9 21-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.9 21-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.9 21-11-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\Programacion\Desktop\Spreadsheet 5.9 21-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\Spreadsheet 5.9 21-11-16\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 5.9 21-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.TrustInfo.xml
+C:\Users\Programacion\Desktop\Spreadsheet 5.9 21-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 5.9 21-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 22-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 22-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 22-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 22-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 22-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 22-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 22-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 22-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 22-11-16\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 22-11-16\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 22-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Registro.resources
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 22-11-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 22-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 22-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 22-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 22-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 22-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 22-11-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 22-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 22-11-16\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 22-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.TrustInfo.xml
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 22-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 22-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 23-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 23-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 23-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 23-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 23-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 23-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 23-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 23-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 23-11-16\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 23-11-16\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 23-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Registro.resources
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 23-11-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 23-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 23-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 23-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 23-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 23-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 23-11-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 23-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 23-11-16\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 23-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.TrustInfo.xml
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 23-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 23-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 6.0 23-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Version.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.0 24-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 7.0 24-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 7.0 24-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 7.0 24-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 7.0 24-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 7.0 24-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 7.0 24-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 7.0 24-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 7.0 24-11-16\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 7.0 24-11-16\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Spreadsheet 7.0 24-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Registro.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.0 24-11-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.0 24-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.0 24-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.0 24-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.0 24-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.0 24-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.0 24-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Version.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.0 24-11-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.0 24-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\Spreadsheet 7.0 24-11-16\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 7.0 24-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.TrustInfo.xml
+C:\Users\Programacion\Desktop\Spreadsheet 7.0 24-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 7.0 24-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 7.1 25-11-16 - copia\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 7.1 25-11-16 - copia\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 7.1 25-11-16 - copia\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 7.1 25-11-16 - copia\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 7.1 25-11-16 - copia\Spreadsheet 4.0\bin\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 7.1 25-11-16 - copia\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 7.1 25-11-16 - copia\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 7.1 25-11-16 - copia\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 7.1 25-11-16 - copia\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 7.1 25-11-16 - copia\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Spreadsheet 7.1 25-11-16 - copia\Spreadsheet 4.0\obj\Debug\Payroll.Registro.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.1 25-11-16 - copia\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.1 25-11-16 - copia\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.1 25-11-16 - copia\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.1 25-11-16 - copia\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.1 25-11-16 - copia\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.1 25-11-16 - copia\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.1 25-11-16 - copia\Spreadsheet 4.0\obj\Debug\Payroll.Version.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.1 25-11-16 - copia\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.1 25-11-16 - copia\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\Spreadsheet 7.1 25-11-16 - copia\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 7.1 25-11-16 - copia\Spreadsheet 4.0\obj\Debug\Spreadsheet.TrustInfo.xml
+C:\Users\Programacion\Desktop\Spreadsheet 7.1 25-11-16 - copia\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 7.1 25-11-16 - copia\Spreadsheet 4.0\obj\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 7.2 25-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 7.2 25-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 7.2 25-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 7.2 25-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 7.2 25-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 7.2 25-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 7.2 25-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 7.2 25-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 7.2 25-11-16\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 7.2 25-11-16\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Spreadsheet 7.2 25-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Registro.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.2 25-11-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.2 25-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.2 25-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.2 25-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.2 25-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.2 25-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.2 25-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Version.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.2 25-11-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.2 25-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\Spreadsheet 7.2 25-11-16\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 7.2 25-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.TrustInfo.xml
+C:\Users\Programacion\Desktop\Spreadsheet 7.2 25-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 7.2 25-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 7.3 25-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 7.3 25-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 7.3 25-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 7.3 25-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 7.3 25-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 7.3 25-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 7.3 25-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 7.3 25-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 7.3 25-11-16\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 7.3 25-11-16\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Spreadsheet 7.3 25-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Registro.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.3 25-11-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.3 25-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.3 25-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.3 25-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.3 25-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.3 25-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.3 25-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Version.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.3 25-11-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\Programacion\Desktop\Spreadsheet 7.3 25-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\Spreadsheet 7.3 25-11-16\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 7.3 25-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.TrustInfo.xml
+C:\Users\Programacion\Desktop\Spreadsheet 7.3 25-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 7.3 25-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 7.3 25-11-16 - copia\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 7.3 25-11-16 - copia\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 7.3 25-11-16 - copia\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 8.0 25-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 8.0 25-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 8.0 25-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 8.0 25-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 8.0 25-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 8.0 25-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 8.0 25-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 8.0 25-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 8.0 25-11-16\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 8.0 25-11-16\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Spreadsheet 8.0 25-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Registro.resources
+C:\Users\Programacion\Desktop\Spreadsheet 8.0 25-11-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\Programacion\Desktop\Spreadsheet 8.0 25-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\Programacion\Desktop\Spreadsheet 8.0 25-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\Programacion\Desktop\Spreadsheet 8.0 25-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\Programacion\Desktop\Spreadsheet 8.0 25-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\Programacion\Desktop\Spreadsheet 8.0 25-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\Programacion\Desktop\Spreadsheet 8.0 25-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Version.resources
+C:\Users\Programacion\Desktop\Spreadsheet 8.0 25-11-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\Programacion\Desktop\Spreadsheet 8.0 25-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\Spreadsheet 8.0 25-11-16\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 8.0 25-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.TrustInfo.xml
+C:\Users\Programacion\Desktop\Spreadsheet 8.0 25-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 8.0 25-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 9.0 28-11-16 - copia\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 9.0 28-11-16 - copia\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 9.0 28-11-16 - copia\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 9.1 28-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 9.1 28-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 9.1 28-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 9.1 28-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 9.1 28-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 9.1 28-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 9.1 28-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 9.1 28-11-16\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 9.1 28-11-16\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 9.1 28-11-16\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Spreadsheet 9.1 28-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Registro.resources
+C:\Users\Programacion\Desktop\Spreadsheet 9.1 28-11-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\Programacion\Desktop\Spreadsheet 9.1 28-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\Programacion\Desktop\Spreadsheet 9.1 28-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\Programacion\Desktop\Spreadsheet 9.1 28-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\Programacion\Desktop\Spreadsheet 9.1 28-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\Programacion\Desktop\Spreadsheet 9.1 28-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\Programacion\Desktop\Spreadsheet 9.1 28-11-16\Spreadsheet 4.0\obj\Debug\Payroll.Version.resources
+C:\Users\Programacion\Desktop\Spreadsheet 9.1 28-11-16\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\Programacion\Desktop\Spreadsheet 9.1 28-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\Spreadsheet 9.1 28-11-16\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 9.1 28-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.TrustInfo.xml
+C:\Users\Programacion\Desktop\Spreadsheet 9.1 28-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 9.1 28-11-16\Spreadsheet 4.0\obj\Debug\Spreadsheet.application
+C:\Users\admin\Desktop\Spreadsheet 9.5 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\admin\Desktop\Spreadsheet 9.5 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\admin\Desktop\Spreadsheet 9.5 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\admin\Desktop\Spreadsheet 9.5 30-11-16 U.T.U\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe.manifest
+C:\Users\admin\Desktop\Spreadsheet 9.5 30-11-16 U.T.U\Spreadsheet 4.0\bin\Debug\Spreadsheet.application
+C:\Users\admin\Desktop\Spreadsheet 9.5 30-11-16 U.T.U\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\admin\Desktop\Spreadsheet 9.5 30-11-16 U.T.U\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\admin\Desktop\Spreadsheet 9.5 30-11-16 U.T.U\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\admin\Desktop\Spreadsheet 9.5 30-11-16 U.T.U\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\admin\Desktop\Spreadsheet 9.5 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Spreadsheet 9.5 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Payroll.Registro.resources
+C:\Users\admin\Desktop\Spreadsheet 9.5 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\admin\Desktop\Spreadsheet 9.5 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\admin\Desktop\Spreadsheet 9.5 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\admin\Desktop\Spreadsheet 9.5 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\admin\Desktop\Spreadsheet 9.5 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\admin\Desktop\Spreadsheet 9.5 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\admin\Desktop\Spreadsheet 9.5 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Payroll.Version.resources
+C:\Users\admin\Desktop\Spreadsheet 9.5 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\admin\Desktop\Spreadsheet 9.5 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Spreadsheet 9.5 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\admin\Desktop\Spreadsheet 9.5 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Spreadsheet.TrustInfo.xml
+C:\Users\admin\Desktop\Spreadsheet 9.5 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe.manifest
+C:\Users\admin\Desktop\Spreadsheet 9.5 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Spreadsheet.application
+D:\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+D:\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+D:\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+D:\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe.manifest
+D:\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\bin\Debug\Spreadsheet.application
+D:\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+D:\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+D:\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+D:\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+D:\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+D:\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Payroll.Registro.resources
+D:\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+D:\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+D:\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+D:\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+D:\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+D:\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+D:\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Payroll.Version.resources
+D:\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+D:\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+D:\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+D:\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Spreadsheet.TrustInfo.xml
+D:\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe.manifest
+D:\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\bin\Debug\Spreadsheet.application
+C:\Users\Programacion\Desktop\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\bin\Debug\Spreadsheet.exe
+C:\Users\Programacion\Desktop\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\bin\Debug\Spreadsheet.pdb
+C:\Users\Programacion\Desktop\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\bin\Debug\Spreadsheet.xml
+C:\Users\Programacion\Desktop\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\bin\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Payroll.Registro.resources
+C:\Users\Programacion\Desktop\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Payroll.BAM.resources
+C:\Users\Programacion\Desktop\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Payroll.Planillador.resources
+C:\Users\Programacion\Desktop\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Payroll.Login.resources
+C:\Users\Programacion\Desktop\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Payroll.Principal.resources
+C:\Users\Programacion\Desktop\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Payroll.Resources.resources
+C:\Users\Programacion\Desktop\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Payroll.Consultor.resources
+C:\Users\Programacion\Desktop\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Payroll.Version.resources
+C:\Users\Programacion\Desktop\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Payroll.BAM.de.resources
+C:\Users\Programacion\Desktop\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Spreadsheet.vbproj.GenerateResource.Cache
+C:\Users\Programacion\Desktop\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\de\Spreadsheet.resources.dll
+C:\Users\Programacion\Desktop\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Spreadsheet.TrustInfo.xml
+C:\Users\Programacion\Desktop\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Spreadsheet.exe.manifest
+C:\Users\Programacion\Desktop\Spreadsheet 10 30-11-16 U.T.U\Spreadsheet 4.0\obj\Debug\Spreadsheet.application

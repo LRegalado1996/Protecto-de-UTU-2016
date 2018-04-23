@@ -1,0 +1,56 @@
+<VSTemplate Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>Spreadsheet</Name>
+    <Description>&lt;No hay ninguna descripción disponible&gt;</Description>
+    <ProjectType>VisualBasic</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>Spreadsheet</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="Spreadsheet.vbproj" File="Spreadsheet.vbproj" ReplaceParameters="true">
+      <Folder Name="Administrador" TargetFolderName="Administrador">
+        <ProjectItem ReplaceParameters="true" TargetFileName="BAM.vb">BAM.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="BAM.Designer.vb">BAM.Designer.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="BAM.resx">BAM.resx</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Planillador.vb">Planillador.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Planillador.Designer.vb">Planillador.Designer.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Planillador.resx">Planillador.resx</ProjectItem>
+      </Folder>
+      <Folder Name="Administrativo" TargetFolderName="Administrativo">
+        <ProjectItem ReplaceParameters="true" TargetFileName="Administrativo.vb">Administrativo.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Administrativo.Designer.vb">Administrativo.Designer.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Administrativo.resx">Administrativo.resx</ProjectItem>
+      </Folder>
+      <Folder Name="Main" TargetFolderName="Main">
+        <ProjectItem ReplaceParameters="true" TargetFileName="Background.vb">Background.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Background.Designer.vb">Background.Designer.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Background.resx">Background.resx</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Login.vb">Login.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Login.Designer.vb">Login.Designer.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Login.resx">Login.resx</ProjectItem>
+      </Folder>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Modulos.vb">Modulos.vb</ProjectItem>
+      <Folder Name="My Project" TargetFolderName="My Project">
+        <ProjectItem ReplaceParameters="true" TargetFileName="Application.myapp">Application.myapp</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Application.Designer.vb">Application.Designer.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="AssemblyInfo.vb">AssemblyInfo.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.resx">Resources.resx</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.Designer.vb">Resources.Designer.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.settings">Settings.settings</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.Designer.vb">Settings.Designer.vb</ProjectItem>
+      </Folder>
+      <Folder Name="Profesor" TargetFolderName="Profesor">
+        <ProjectItem ReplaceParameters="true" TargetFileName="Profesor.vb">Profesor.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Profesor.Designer.vb">Profesor.Designer.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Profesor.resx">Profesor.resx</ProjectItem>
+      </Folder>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
